@@ -1,0 +1,37 @@
+.fullwidth{
+    width: 100%;
+    height: 550px;
+    
+}
+.salta{
+    width: 20%;
+    float: left;
+    color: aliceblue;
+    padding-left: 250px;
+}
+.menu{
+    
+    float: left;
+    color: aliceblue;
+    padding-right: 55px;
+    
+}
+.bg{
+    background-color: rgb(55, 161, 231);
+    /* background-image: url(m.jpeg);
+    background-repeat: no-repeat;
+    background-position: bottom; */
+    
+}
+.border{
+    border-style: solid;
+    border-width: 1px;
+    border-style: none;
+    margin-left: 5px;
+    float: left;
+    background-color: aliceblue;
+    color: rgb(13, 70, 135);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
